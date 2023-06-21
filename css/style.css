@@ -1,0 +1,123 @@
+.head{
+	text-align:center;
+	padding:300px;
+	
+}
+
+
+.primary{
+	background-color:blue;
+	padding:9px;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+.primary:hover{
+	background-color:#141474;
+	transition:all 1s ease;
+}
+
+.secondary{
+	background-color:gray;
+	padding:9px;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+.secondary:hover{
+	background-color:#babac3;
+	transition:all 1s ease;
+}
+
+.success{
+	background-color:green;
+	padding:9px;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+.success:hover{
+	background-color:#4ad74a;
+	transition:all 1s ease;
+}
+
+.danger{
+	background-color:red;
+	padding:9px;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+.danger:hover{
+	background-color:#eb733a;
+	transition:all 1s ease;
+}
+
+.warning{
+	background-color:orange;
+	padding:9px;
+	color:black;
+	border:none;
+	border-radius:3px;
+	
+}
+.warning:hover{
+	background-color:#b56536;
+	transition:all 1s ease;
+}
+
+.info{
+	background-color:#88e4ff;
+	padding:9px;
+	color:black;
+	border:none;
+	border-radius:3px;
+	
+}
+.info:hover{
+	background-color:#2ad5bd;
+	transition:all 1s ease;
+}
+
+.light{
+	background-color:#8080800d;
+	padding:9px;
+	color:black;
+	border:none;
+	border-radius:3px;
+	
+}
+
+.light:hover{
+	background-color:#4ad74a;
+	transition:all 1s ease;
+}
+
+.dark{
+	background-color:black;
+	padding:9px;
+	color:white;
+	border:none;
+	border-radius:3px;
+	
+}
+
+.dark:hover{
+	background-color:#bac8cb;
+	transition:all 1s ease;
+}
+
+.link{
+	border:none;
+	background-color:transparent;
+	text-decoration:underline;
+	color:blue;
+}
+.link:hover{
+	background-color:#4ad74a;
+	transition:all 1s ease;
+}
