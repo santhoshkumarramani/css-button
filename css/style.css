@@ -114,10 +114,11 @@
 .link{
 	border:none;
 	background-color:transparent;
-	text-decoration:underline;
+	text-decoration:none;
 	color:blue;
 }
 .link:hover{
 	background-color:#4ad74a;
 	transition:all 1s ease;
+	cursor:pointer;
 }
